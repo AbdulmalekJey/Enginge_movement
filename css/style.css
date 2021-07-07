@@ -1,0 +1,138 @@
+body{
+    background: url(../images/Robot1.png) no-repeat center center fixed;
+        background-size: cover    
+}
+
+div{
+    background-color: rgb(169,169,167);
+    width: 40%;
+    margin: 15% auto;
+    padding: 1.2px;
+    font-family: 'Luckiest Guy', cursive;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    opacity: 0.90;
+    text-align: center;
+}
+
+h1{
+    width: 75%;
+    text-align: center;
+    font-size: 1.8em;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: steelblue;
+}
+
+h2{
+    text-align: center;
+    width: 60%;
+    font-size: 1.53em;
+    margin:0 auto;
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+h3{
+    width: 100px;
+    font-size: 1.53em;
+    margin:0 auto;
+    color: darkslategray;
+
+}
+
+.a{
+    width: 200px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.ib{
+    text-align: center;
+    border-radius: 15px;
+    border-color: blue;
+    color:rgb(132,165,237);
+    background-color: azure;
+    font-size:1.3em;
+    width: 190px;
+    height: 45px;
+    color: black;    
+}
+
+.ab{
+    width: 100px;
+    font-size: 1em;
+    margin: 0 auto;
+    border-radius: 20px;
+    color:rgb(132,165,237);
+    background-color: beige;
+    margin-bottom: 10px;
+}
+.range {
+        width: 100px;
+        font-size: 1em;
+        margin: 0 auto;
+        border-radius: 20px;
+        color:rgb(132,165,237);
+        background-color: beige;
+        margin-bottom: 10px;
+
+}
+
+.ef{
+    font-size: 1.2em;
+    background-color: azure;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: orange;
+    margin-bottom: 15px;
+}
+.er{
+    font-size: 1.2em;
+    background-color: azure;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: orange;
+    margin-bottom: 15px;
+}
+.es{
+    font-size: 1.2em;
+    background-color: azure;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: orange;
+    margin-bottom: 15px;
+}
+
+.el{
+    font-size: 1.2em;
+    background-color: azure;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: orange;
+    margin-bottom: 15px;
+}
+.eb{
+    font-size: 1.2em;
+    background-color: azure;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: orange;
+    margin-bottom: 35px;
+}
+
+button{
+    width: 80px;
+    padding: 4px;
+    margin-left: 15%;
+    margin-bottom: 1%;
+    border-radius: 20px;
+    color:rgb(132,165,237);
+    background-color: azure;
+    
+}
